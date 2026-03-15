@@ -1,1 +1,1 @@
-Front-End Web Development
+FRONT-END WEB DEVELOPMENT
